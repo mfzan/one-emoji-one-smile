@@ -14,6 +14,10 @@ import os
 # The entry: U+1F979 FACE HOLDING BACK TEARS.
 # Warm, grateful, on the edge of happy tears -- warmth you can feel
 # at a glance, with no words needed and nothing left to explain.
+# I picked a face over a gesture on purpose: a hug reads as something
+# one person does to another, while this face is simply how warmth
+# looks when it lands -- it works coming from a stranger, needs no
+# context, and cannot be read as flirtation, sarcasm or an in-joke.
 EMOJI = "\U0001F979"
 
 
